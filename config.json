@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcalculate",
+        "uuid": 18147942,
+        "checksum": "fh8age"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
